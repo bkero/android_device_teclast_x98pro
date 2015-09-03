@@ -17,6 +17,8 @@
 PRODUCT_DEVICE := x98pro
 PRODUCT_NAME := x98pro
 
+TARGET_CPU_ABI := x86_64
+
 PRODUCT_AAPT_CONFIG := normal large xlarge hdpi xhdpi xxhdpi
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 

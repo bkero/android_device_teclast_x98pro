@@ -7,7 +7,7 @@ TARGET_BOOTANIMATION_HALF_RES := false
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/teclast/x98pro/full_x98pro.mk)
+$(call inherit-product, device/teclast/x98pro/device_x98pro.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := x98pro
